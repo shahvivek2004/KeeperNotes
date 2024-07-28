@@ -28,7 +28,7 @@ cd KeeperNotes
   
   ```
   
-- After that create `.env` file in `backend/` folder where all your credentials are ther for e.g:-
+- After that create `.env` file in `backend/` folder where all your credentials are their for e.g:-
   ```
    SESSION_SECRET="your_session_secret"
    PG_USER="your_postgres_username"
