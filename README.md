@@ -22,13 +22,13 @@ cd KeeperNotes
   
 - Now after thar write `npm init` in terminal.
   
-- Now after write below  thin terminal.
+- Now pass below command in terminal.
   ```
    npm install nodemon express body-parser pg bcryptjs passport passport-local passport-google-oauth2 express-session dotenv cors connect-flash
   
   ```
   
-- After that create `.env` file in `backend/` folder where all your credentials are their for e.g:-
+- After that create `.env` file in `backend/` folder where all your credentials are their for to setup it accordingly:-
   ```
    SESSION_SECRET="your_session_secret"
    PG_USER="your_postgres_username"
