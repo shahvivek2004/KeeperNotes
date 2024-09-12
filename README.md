@@ -39,9 +39,9 @@ cd KeeperNotes
    CLIENT_ID="your_google_client_id"
    CLIENT_SECRET="your_google_client_secret"
    SECRET_GOOGLE_AUTH_PASSWORD="your_decided_password"
-   SERVER_PORT="4000"
-   CLIENT_LINK="http://localhost:3000"
-   SERVER_LINK="http://localhost:4000"
+   SERVER_PORT="your_decide_port2"
+   CLIENT_LINK="http://localhost:your_decided_port1"
+   SERVER_LINK="http://localhost:your_decided_port2"
    NODE_ENV="development"
   ```
   
